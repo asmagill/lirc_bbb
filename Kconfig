@@ -1,0 +1,5 @@
+config LIRC_BBB
+	tristate "Homebrew GPIO Port Receiver/Transmitter for the BeagleBone Black"
+	depends on LIRC
+	help
+	  Driver for Homebrew GPIO Port Receiver/Transmitter for the BeagleBone Black
