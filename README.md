@@ -1,7 +1,7 @@
 lirc_bbb
 ========
 
-This is a fork of the lirc_bbb driver which is itself a fork of the lirc_pi driver which
+This is a fork of the lirc_bbb driver which is itself a fork of the lirc_rpi driver which
 allows the use of a remote receiver attached to a GPIO pin of the device.  This appealed to
 me because it meant I could attach a TSOP4838 (38kHz IR Receiver Module from Radio Shack)
 directly to P9_14, GND, and +3.3v without any other components required.
