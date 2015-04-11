@@ -20,16 +20,15 @@ Requires DKMS to be installed and whatever else is required for building kernel 
 Copy the contents of this repository into /usr/src/lirc_bbb-20150411 and type
 `dkms install lirc_bbb/20150411` and you should be good to go.
 
-### From Original Source
+### Readme From Original Source
 
-    lirc_bbb (https://github.com/hani93/lirc_bbb)
-    =============================================
+#### lirc_bbb (https://github.com/hani93/lirc_bbb)
 
-    Porting RaspBerry Pi's "lirc_rpi" driver for BeagleBone Black.
+Porting RaspBerry Pi's "lirc_rpi" driver for BeagleBone Black.
 
-    Sending is working on "P9_14" and receiving on "P9_12".
+Sending is working on "P9_14" and receiving on "P9_12".
 
-    Tested on kernel version 3.8.13 with RobertCNelson's patches.
+Tested on kernel version 3.8.13 with RobertCNelson's patches.
 
-    MrMaxx
-    mrmaxx93@hotmail.com
+MrMaxx
+mrmaxx93@hotmail.com
